@@ -5,13 +5,13 @@ Essa é uma iniciativa que não vou conseguir fazer todo dia, mas será o desafi
 ## Regras
 
 1. Escrever código ao menos por 1 hora nos próximos 100 dias
-2. Tweetar seu progresso usando as tags #100DaysOfCode e #ApachaKafka
+2. Tweetar seu progresso usando as tags #100DaysOfCode, #ApachaKafka ou #100DaysOfKafka
 
 A primeira regra eu vou suavizar porque eu mesmo não consigo (quem tem filhos entende) reservar 1h por dia todo dia.
 
 ## Aceite o desafio publicamente
 
-Ao aceitar o desafio, compartilha no [Twitter](https://twitter.com/intent/tweet?text=Aceitei%20o%20desafio%20de%20participar%20do%20%23100DaysOfCode%20com%20%23ApacheKafka%20iniciando%20hoje%21%20Me%20segue%20a%C3%AD%20pra%20aprender...%20%20Oi%20%40vepo%20e%20%40dev_roadmap&url=https://github.com/vepo/kafka-100-days&hashtags=100DaysOfCode,ApacheKafka).
+Ao aceitar o desafio, compartilha no [Twitter](https://twitter.com/intent/tweet?text=Aceitei%20o%20desafio%20de%20participar%20do%20%23100DaysOfCode%20com%20%23ApacheKafka%20iniciando%20hoje%21%20Me%20segue%20a%C3%AD%20pra%20aprender...%20%20Oi%20%40vepo%20e%20%40dev_roadmap&url=https://github.com/vepo/kafka-100-days&hashtags=100DaysOfCode,ApacheKafka,100DaysOfKafka).
 
 ## Recomendações
 
