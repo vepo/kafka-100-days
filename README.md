@@ -15,14 +15,14 @@ Ao aceitar o desafio, compartilha no [Twitter](https://twitter.com/intent/tweet?
 
 ## Roteiro
 
-- [ ] Dia 001 - Instale o Apache Kafka (escreva um Dockerfile, ou instale ele localmente) [[1]](https://vepo.github.io/posts/rodando-o-apache-kafka-localmente)
-- [ ] Dia 002 - Crie um prodor simples que envia um arquivo texto para um tópico, cada linha deve ser uma mensagem [[2]](https://vepo.github.io/posts/enviando-mensagens)
-- [ ] Dia 003 - Crie um consumidor simples que lê as mensagens de um tópico [[3]](https://vepo.github.io/posts/recebendo-mensagens)
-- [ ] Dia 004 - Altere o seu produtor para enviar um POJO usando um serializador JSON que você mesmo escreveu. Use [Jackson](https://www.devmedia.com.br/introducao-ao-jackson-objectmapper/43174)
-- [ ] Dia 005 - Altere seu consumidor para receber um POJO usando um desserializador JSON que você mesmo escreveu. Use [Jackson](https://www.devmedia.com.br/introducao-ao-jackson-objectmapper/43174)
-- [ ] Dia 006 - Crie um nome consumidor com um novo [group.id](https://kafka.apache.org/documentation/#consumerconfigs_group.id) e veja como os dois consumidores funcionam em paralelo.
-- [ ] Dia 007 - Adicione ao menos mais uma instância do Kafka e tente conectar no cluster, não somente em um broker. 
-- [ ] Dia 008 - Explore os scripts `kafka-topics` e `kafka-consumer-groups`. Se você usa docker eles estão dentro do seu container, se usa local estão na pasta `bin` do Kafka.
-- [ ] Dia 009 - Altere as configurações do seu tópico, adicione mais partições e mude o fator de replicação. Verifique as possiblidades. [[4]](https://vepo.github.io/posts/anatomia-de-um-topico)
-- [ ] Dia 010 - Rode mais de uma instância do mesmo consumidor para um tópico com mais de uma partição e veja como funciona.
+- [ ] **Dia 001** - Instale o Apache Kafka (escreva um Dockerfile, ou instale ele localmente) [[1]](https://vepo.github.io/posts/rodando-o-apache-kafka-localmente)
+- [ ] **Dia 002** - Crie um prodor simples que envia um arquivo texto para um tópico, cada linha deve ser uma mensagem [[2]](https://vepo.github.io/posts/enviando-mensagens)
+- [ ] **Dia 003** - Crie um consumidor simples que lê as mensagens de um tópico [[3]](https://vepo.github.io/posts/recebendo-mensagens)
+- [ ] **Dia 004** - Altere o seu produtor para enviar um POJO usando um serializador JSON que você mesmo escreveu. Use [Jackson](https://www.devmedia.com.br/introducao-ao-jackson-objectmapper/43174)
+- [ ] **Dia 005** - Altere seu consumidor para receber um POJO usando um desserializador JSON que você mesmo escreveu. Use [Jackson](https://www.devmedia.com.br/introducao-ao-jackson-objectmapper/43174)
+- [ ] **Dia 006** - Crie um nome consumidor com um novo [group.id](https://kafka.apache.org/documentation/#consumerconfigs_group.id) e veja como os dois consumidores funcionam em paralelo.
+- [ ] **Dia 007** - Adicione ao menos mais uma instância do Kafka e tente conectar no cluster, não somente em um broker. 
+- [ ] **Dia 008** - Explore os scripts `kafka-topics` e `kafka-consumer-groups`. Se você usa docker eles estão dentro do seu container, se usa local estão na pasta `bin` do Kafka.
+- [ ] **Dia 009** - Altere as configurações do seu tópico, adicione mais partições e mude o fator de replicação. Verifique as possiblidades. [[4]](https://vepo.github.io/posts/anatomia-de-um-topico)
+- [ ] **Dia 010** - Rode mais de uma instância do mesmo consumidor para um tópico com mais de uma partição e veja como funciona.
 - [ ] (...)
