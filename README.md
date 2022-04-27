@@ -13,6 +13,13 @@ A primeira regra eu vou suavizar porque eu mesmo não consigo (quem tem filhos e
 
 Ao aceitar o desafio, compartilha no [Twitter](https://twitter.com/intent/tweet?text=Aceitei%20o%20desafio%20de%20participar%20do%20%23100DaysOfCode%20com%20%23ApacheKafka%20iniciando%20hoje%21%20Me%20segue%20a%C3%AD%20pra%20aprender...%20%20Oi%20%40vepo%20e%20%40dev_roadmap&url=https://github.com/vepo/kafka-100-days&hashtags=100DaysOfCode,ApacheKafka).
 
+## Recomendações
+
+1. Tente usar Java, apesar de Kafka ter APIs em outras linguagens, a API Java é a mais rica! 
+2. Se for usar Java, use [Maven](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+3. Se usa Windows, recomendo usar [Git Bash](https://git-scm.com/downloads), vai te possibilitar usar o Bash ao invés do CMD do Windows.
+4. Se o [SDKMan](https://sdkman.io/), vai te possibilitar instalar o Maven e qualquer versão de Java que você quiser. 
+
 ## Roteiro
 
 - [ ] **Dia 001** - Instale o Apache Kafka (escreva um Dockerfile, ou instale ele localmente) [[1]](https://vepo.github.io/posts/rodando-o-apache-kafka-localmente)
