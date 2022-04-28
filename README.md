@@ -22,7 +22,7 @@ Ao aceitar o desafio, compartilha no [Twitter](https://twitter.com/intent/tweet?
 
 ## Roteiro
 
-- [ ] **Dia 001** - Instale o Apache Kafka (escreva um Dockerfile, ou instale ele localmente) [[1]](https://vepo.github.io/posts/rodando-o-apache-kafka-localmente)
+- [X] [**Dia 001**](./dia-001/README.md) - Instale o Apache Kafka (escreva um Dockerfile, ou instale ele localmente) [[1]](https://vepo.github.io/posts/rodando-o-apache-kafka-localmente)
 - [ ] **Dia 002** - Crie um prodor simples que envia um arquivo texto para um tópico, cada linha deve ser uma mensagem [[2]](https://vepo.github.io/posts/enviando-mensagens)
 - [ ] **Dia 003** - Crie um consumidor simples que lê as mensagens de um tópico [[3]](https://vepo.github.io/posts/recebendo-mensagens)
 - [ ] **Dia 004** - Altere o seu produtor para enviar um POJO usando um serializador JSON que você mesmo escreveu. Use [Jackson](https://www.devmedia.com.br/introducao-ao-jackson-objectmapper/43174)
