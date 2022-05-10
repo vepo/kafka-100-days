@@ -24,7 +24,7 @@ Ao aceitar o desafio, compartilha no [Twitter](https://twitter.com/intent/tweet?
 
 - [X] [**Dia 001**](./dia-001/README.md) - Instale o Apache Kafka (escreva um Dockerfile, ou instale ele localmente) [[1]](https://vepo.github.io/posts/rodando-o-apache-kafka-localmente)
 - [x] [**Dia 002**](./dia-002/README.md) - Crie um produtor simples que envia um arquivo texto para um tópico, cada linha deve ser uma mensagem [[2]](https://vepo.github.io/posts/enviando-mensagens)
-- [ ] **Dia 003** - Crie um consumidor simples que lê as mensagens de um tópico [[3]](https://vepo.github.io/posts/recebendo-mensagens)
+- [X] [**Dia 003**](./dia-003/README.md) - Crie um consumidor simples que lê as mensagens de um tópico [[3]](https://vepo.github.io/posts/recebendo-mensagens)
 - [ ] **Dia 004** - Altere o seu produtor para enviar um POJO usando um serializador JSON que você mesmo escreveu. Use [Jackson](https://www.devmedia.com.br/introducao-ao-jackson-objectmapper/43174)
 - [ ] **Dia 005** - Altere seu consumidor para receber um POJO usando um desserializador JSON que você mesmo escreveu. Use [Jackson](https://www.devmedia.com.br/introducao-ao-jackson-objectmapper/43174)
 - [ ] **Dia 006** - Crie um nome consumidor com um novo [group.id](https://kafka.apache.org/documentation/#consumerconfigs_group.id) e veja como os dois consumidores funcionam em paralelo.
