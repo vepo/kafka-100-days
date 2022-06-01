@@ -32,4 +32,14 @@ Ao aceitar o desafio, compartilha no [Twitter](https://twitter.com/intent/tweet?
 - [ ] **Dia 008** - Explore os scripts `kafka-topics` e `kafka-consumer-groups`. Se você usa docker eles estão dentro do seu container, se usa local estão na pasta `bin` do Kafka.
 - [ ] **Dia 009** - Altere as configurações do seu tópico, adicione mais partições e mude o fator de replicação. Verifique as possiblidades. [[4]](https://vepo.github.io/posts/anatomia-de-um-topico)
 - [ ] **Dia 010** - Rode mais de uma instância do mesmo consumidor para um tópico com mais de uma partição e veja como funciona.
-- [ ] (...)
+- [ ] **Dia 011** - Crie um Stream para remover resultados duplicados de temperaturas usando as informações do **Dia 004**
+- [ ] **Dia 012** - Crie um Stream para fazer a média móvel das temperaturas da última hora
+- [ ] **Dia 013** - Crie um Stream para fazer a estatística de temperatura máxima e mínima do dia
+- [ ] **Dia 014** - Crie um Stream para fazer a média de temperatura de um país na última hora
+- [ ] **Dia 015** - Substitua o producer do **Dia 004** por um Source Connector
+- [ ] **Dia 016** - Escolha um Skin Connector no [Confluent Hub](https://www.confluent.io/hub/) e use para os dados dos dias 011 a 014.
+- [ ] **Dia 017** - Adicione o Schema Registry no produtor do **Dia 004**
+- [ ] **Dia 018** - Altere o produtor do **Dia 004** para usar AVRO
+- [ ] **Dia 019** - Altere o produtor do **Dia 004** para usar Protobuf
+- [ ] **Dia 020** - Altere o produtor do **Dia 004** para que todas as chaves próximas sema agrupadas na mesma partição.
+- [ ] (...) 
